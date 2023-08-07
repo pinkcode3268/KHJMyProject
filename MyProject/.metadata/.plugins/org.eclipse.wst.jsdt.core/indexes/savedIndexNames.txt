@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\gj\gittest\gittest2\MyProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3090324014.index
+175809745.index
+2959316094.index
+1502681631.index
+2719992111.index
+2701284951.index
